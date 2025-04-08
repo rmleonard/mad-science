@@ -21,17 +21,22 @@ https://medium.com/@enesalku/a-beginners-guide-to-ai-agents-simplifying-complex-
 
 # ------------------------------------------------------------------------------
 
-Always begin with platform choice
-Claude is a better writer and programmer, but tends to be very wordy
+##Always begin with platform choice
 
-Gemini and ChatGPT have live connections to internet
+---
 
-Gemini has access to Google Docs/etc...
+<mark>Claude</mark> is a better writer and programmer, but tends to be very wordy
 
-CoPilot has access to MS-Office and VS Code.
+<mark>Gemini</mark> and <mark>ChatGPT</mark> have live connections to internet
 
-.......
-Create a Persona for your "Assistant", ChatGPT has a special area where you can
+<mark>Gemini</mark> has access to Google Docs/etc...
+
+<mark>CoPilot</mark> has access to MS-Office and VS Code.
+
+---
+
+##Create a Persona for your "Assistant"
+<mark>ChatGPT</mark> has a special area where you can
 add details to the persona, as well as provide additional instructions.
 
 Don't think this is odd, or silly, if you don't you will find that your assistant
